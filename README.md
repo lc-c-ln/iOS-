@@ -19,5 +19,13 @@ swift ui
 - jesipark@gmail.com
 - me@ebadaq.com
 
-#### 
+#### ios 플랫폼이 5개다?
+
+
+![image](https://github.com/lc-c-ln/iOS-/assets/45018724/15ec0ee0-5305-4990-a43a-3421cebf1e56)|100
+
+
+
+
+
 
